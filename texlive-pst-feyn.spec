@@ -1,6 +1,6 @@
 Name:		texlive-pst-feyn
 Version:	48781
-Release:	1
+Release:	2
 Summary:	Draw graphical elements for Feynman diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-feyn
