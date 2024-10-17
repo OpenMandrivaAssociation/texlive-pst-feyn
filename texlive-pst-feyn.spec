@@ -3,7 +3,7 @@ Version:	48781
 Release:	2
 Summary:	Draw graphical elements for Feynman diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-feyn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-feyn
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-feyn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-feyn.doc.r%{version}.tar.xz
